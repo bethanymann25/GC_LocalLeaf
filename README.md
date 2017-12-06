@@ -4,6 +4,11 @@
 <link href="https://fonts.googleapis.com/css?family=Oswald|PT+Sans" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Catamaran|Fjalla+One" rel="stylesheet">
 <title>Local Leaf Nyc</title>
+<!-- item 26-->
+        <link rel="icon"
+          type="image/png"
+          href="Basil_Leaves.png"
+          />
 <link rel="stylesheet" type="text/css" href="LocalLeaf.css">
 </head>
 <!-- item 26-->
